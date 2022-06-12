@@ -1,1 +1,34 @@
-hello 
+html{
+    font-family:Roboto, sans-serif ;
+}
+
+*{
+    color:black;
+}
+
+h1{
+    color: blue;
+    margin-bottom: 0.25em;
+}
+
+h2{
+
+    color: black;
+    font-size: 1em;
+    margin-top: 0%;
+    margin-bottom: 1em;
+
+}
+a{
+    color: blue;
+}
+
+.contact{
+    display: flex;
+    
+    }
+}
+
+
+
+
